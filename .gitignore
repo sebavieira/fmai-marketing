@@ -1,0 +1,21 @@
+# Claude Code — config local de cada máquina
+.claude/settings.local.json
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Arquivos temporários
+*.tmp
+*.log
+*.bak
+
+# Memory / sessões da IDE (se houver)
+.claude/memory/
